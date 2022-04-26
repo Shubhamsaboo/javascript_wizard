@@ -5,12 +5,13 @@
 
 ## 🎈 Try out the Live Application
 ```bash
-
+https://share.streamlit.io/shubhamsaboo/javascript_wizard/main/app.py
 ```
 
 ### ♾️ Application Walkthrough
 
-![alt text](video-walkthrough.webm)
+[![IMAGE ALT TEXT HERE](artifacts/cover.png)](https://youtu.be/8u0xnMoDHb8)
+
 
 
 ## 💥 Bringing up the application Locally
@@ -36,7 +37,7 @@ streamlit run app.py
 
 ## 🎨 How to create more such applications?
 
-🕹️ Check out [GPT-3 Club](https://www.gpt3.club/) to get started with buidling AI products using GPT-3 in three simple steps.
+🕹️ Check out [GPT-3 Club](https://www.gpt3.club/) to get started with building AI products using GPT-3 in three simple steps.
 
 📕 Follow my upcoming O'Reilly Book "[GPT-3: Building Innovative NLP Products using LLMs](https://learning.oreilly.com/library/view/gpt-3/9781098113612/)"
 

@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="🤖",
     layout="centered")
 
-st.sidebar.image("giphy.gif", use_column_width=True)
+st.sidebar.image("artifacts/giphy.gif", use_column_width=True)
 
 api_key = st.sidebar.text_input("OpenAI API Key:", type="password")
 
@@ -18,7 +18,7 @@ st.sidebar.write("Powered by [OpenAI](https://openai.com/) & [Streamlit](https:/
 if api_key:
     st.title("Java Script Wizard 🪄 ")
     
-    st.image("js_wiz.png")
+    st.image("artifacts/js_wiz.png")
 
     inp = st.text_input('Describe your Query! 📚')
     
